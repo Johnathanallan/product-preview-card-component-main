@@ -88,6 +88,10 @@ button{
     align-items: center;
   }
 
+  button:hover{
+    background-color: hsl(159, 38%, 22%);
+  }
+
   /* Add a class to control visibility of images based on screen size */
 .mobile-image {
     display: none; /* Hide the mobile image by default */
